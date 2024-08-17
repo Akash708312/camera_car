@@ -1,4 +1,4 @@
-The main aim of this project is to develop a webcam based Real-Time Face Detection System. This application not only detects faces but it can also predict the age and gender of those faces detected. Moreover, it uses database lookup to match identified faces.
+The main aim of this project is to develop a webcam based Real-Time Face Detection System. This application not only detects faces but it can also predict the age and gender of those faces detected. Moreover, it uses database lookup to match identified faces.The main.py file does the facial recgonition, age and gender detection while the age.py file detects gender and age.
 
 Features
 
