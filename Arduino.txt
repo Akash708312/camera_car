@@ -6,7 +6,7 @@
 #include <iostream>
 #include <sstream>
 
-struct MOTOR_PINS
+struct  MOTOR_PINS
 {
   int pinEn;  
   int pinIN1;
